@@ -1,6 +1,7 @@
-# 🎄 C语言控制台动态圣诞树 (Christmas Console Animation)
+# 🎄 C语言简易动态圣诞树 (Christmas Console Animation)
 
-这是一个基于 C 语言和 Windows API 开发的控制台动态动画程序。
+这是一个基于 C 语言和 Windows API 制作的控制台简易动画程序。
+<img width="578" height="394" alt="image" src="https://github.com/user-attachments/assets/056ccfac-8a03-44d1-9f20-4c2f28e87196" />
 
 ## ✨ 核心功能
 - **动态雪花**：支持最多 1000 颗雪花。
